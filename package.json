@@ -1,6 +1,6 @@
 {
   "name": "sunbridger-cli",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "this is a cli for vue",
   "repository": "https://github.com/Sunbridger/my-cli",
   "main": "index.js",
