@@ -1,7 +1,8 @@
 {
   "name": "my-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is a cli for vue",
+  "repository": "https://github.com/Sunbridger/my-cli",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +11,11 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "test-cli": "./bin/index.js"
+    "Sunbridger": "./bin/index.js",
+    "sun": "./bin/index2.js"
   },
   "dependencies": {
+    "chalk": "^4.1.0",
     "commander": "^6.0.0",
     "download-git-repo": "^3.0.2",
     "inquirer": "^7.0.0",
