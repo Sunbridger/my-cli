@@ -1,4 +1,5 @@
-# 生成vue脚手架
+# 一个通用性的vue脚手架
+>vue工程化开发模式
 
 ## install
 
@@ -22,6 +23,6 @@ or
 
 
 
-## 模板
+## 模板参考
 
 [模板链接](https://github.com/Sunbridger/vue-cli-template)
