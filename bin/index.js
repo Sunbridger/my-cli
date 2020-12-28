@@ -3,5 +3,5 @@ const inq = require('./inquirer');
 const download = require('./downloadcode');
 
 inq.then((params) => {
-    download(params.name);
+    download(params);
 });
